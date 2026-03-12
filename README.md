@@ -38,4 +38,20 @@ Based on the SQL analysis, here are the core metrics calculated from the databas
 •	Total Orders: The shop processed 21,350 unique orders.
 
 •	Average Pizzas Per Order: Customers typically buy 2.32 pizzas per transaction.
+*************************************************************
+
+📁 Repository Contents
+
+
+•	data/: Folder containing the raw sales data.
+
+•	Sql queries \: word file contain sql queries for business insights
+
+•	scripts/: Contains pizza_sales_queries.sql
+
+•	Power BI report /: Contains Pizza_Sales_Dashboard.pbix, the interactive visual layer of the analysis.
+
+•	README.md: Main README file providing an overview of the project.
+
+*************************************************************
 
