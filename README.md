@@ -6,3 +6,13 @@ This project provides a comprehensive analysis of pizza sales data to identify k
  the goal is to help a pizza shop understand its sales performance, customer preferences, and peak hours to optimize operations.
 
 *************************************************************
+
+
+🛠️ Tools Used
+
+•	SQL (MS SQL Server):
+Used for data cleaning and calculating core business metrics.
+•	Power BI:
+Used to create interactive dashboards to visualize sales trends and category performance.
+•	Excel:
+Initial data exploration.
