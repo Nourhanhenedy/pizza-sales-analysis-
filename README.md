@@ -24,8 +24,8 @@ Initial data exploration.
 
 *************************************************************
 
-**
-📈 Key Business Insights (KPIs)**
+
+**📈 Key Business Insights (KPIs)**
 
 Based on the SQL analysis, here are the core metrics calculated from the database:
 
@@ -40,7 +40,7 @@ Based on the SQL analysis, here are the core metrics calculated from the databas
 •	Average Pizzas Per Order: Customers typically buy 2.32 pizzas per transaction.
 *************************************************************
 
-📁 Repository Contents
+**📁 Repository Contents**
 
 
 •	data/: Folder containing the raw sales data.
@@ -55,3 +55,40 @@ Based on the SQL analysis, here are the core metrics calculated from the databas
 
 *************************************************************
 
+**🚀 How to Run the Project**
+
+
+1.	Database Setup: Import the pizza_sales_data.csv into your SQL Server.
+
+2.	Run Queries: Use the scripts in the SQL_Scripts/ folder to verify the KPIs.
+
+3.	Visualization: Open the .pbix file in Power BI Desktop to explore the interactive dashboard.
+
+
+*************************************************************
+**📸 Dashboard Preview**
+
+
+
+**Key Data Insights:**
+
+
+•	Performance KPIs: Achieved a total revenue of $817,860.05 from 21,350 unique orders.
+
+•	Customer Behavior: The average order value is $38.31, with a preference for Large (L) pizzas and the Classic category.
+
+•	Operational Peak: Data identifies Fridays and the 12:00 PM lunch hour as the highest periods of demand.
+
+
+
+**Interactive Dashboard:**
+
+
+The dashboard consists of two specialized pages 
+
+•	Home Page: Visualizes overall KPIs and sales trends.
+
+•	Best & Worst Sellers: Analyzes product performance to identify top revenue drivers and low-selling items 
+
+
+*************************************************************
