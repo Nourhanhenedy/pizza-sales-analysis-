@@ -1,2 +1,6 @@
-# pizza-sales-analysis-
-A comprehensive data analysis project that transforms raw pizza sales records into actionable insights using SQL Server and Power BI. The report features a "Home Page" for executive KPIs and a "Sellers Page" to identify the best and worst-performing products
+🍕 Pizza Sales Data Analysis | SQL & Power BI
+📊 Project Overview
+This project provides a comprehensive analysis of pizza sales data to identify key performance indicators (KPIs) and trends. By using SQL for data extraction and Power BI for visualization,
+ the goal is to help a pizza shop understand its sales performance, customer preferences, and peak hours to optimize operations.
+
+*************************************************************
