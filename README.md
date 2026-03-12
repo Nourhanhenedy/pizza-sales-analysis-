@@ -11,8 +11,11 @@ This project provides a comprehensive analysis of pizza sales data to identify k
 🛠️ Tools Used
 
 •	SQL (MS SQL Server):
+
 Used for data cleaning and calculating core business metrics.
 •	Power BI:
+
 Used to create interactive dashboards to visualize sales trends and category performance.
 •	Excel:
+
 Initial data exploration.
