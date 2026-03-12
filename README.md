@@ -92,3 +92,5 @@ The dashboard consists of two specialized pages
 
 
 *************************************************************
+<img width="1368" height="819" alt="Power BI Desktop 2_27_2026 9_41_30 PM" src="https://github.com/user-attachments/assets/4dc6d4a0-313a-4f10-bfad-58122b8f45a7" />
+
